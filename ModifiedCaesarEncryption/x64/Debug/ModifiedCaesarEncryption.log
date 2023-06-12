@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Leandro 2\Desktop\Hello World\ModifiedCaesarEncryption\ModifiedCaesarEncryption\main.c(100,14): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Leandro 2\Desktop\Hello World\ModifiedCaesarEncryption\ModifiedCaesarEncryption\main.c(106,14): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Leandro 2\Desktop\Hello World\ModifiedCaesarEncryption\ModifiedCaesarEncryption\main.c(108,15): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Leandro 2\Desktop\Hello World\ModifiedCaesarEncryption\ModifiedCaesarEncryption\main.c(115,11): warning C4133: 'function': incompatible types - from 'int [150]' to 'char *'
+  ModifiedCaesarEncryption.vcxproj -> C:\Users\Leandro 2\Desktop\Hello World\ModifiedCaesarEncryption\x64\Debug\ModifiedCaesarEncryption.exe
